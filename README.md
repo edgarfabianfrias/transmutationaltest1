@@ -1,3 +1,1 @@
-# learnwixaritari
-Learn Wixaritari
-https://edgarfabianfrias.github.io/learnwixaritari/
+https://edgarfabianfrias.github.io/transmutationaltest1/.
